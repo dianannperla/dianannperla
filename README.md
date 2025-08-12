@@ -1,19 +1,18 @@
-![frontend-frameworks development](https://media0.giphy.com/media/v1.Y2lkPTdiYzJhNDkwYXNqZXdkNWg5OGo0dmdkczBjanBrYThqc293MDkxbXg0aXhjeTZnMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3orifbbuQIG8YwaNt6/giphy.gif)
-
 # Giới thiệu
-Xin chào! Tôi là Dianann Perla, một nhà phát triển phần mềm với nhiều kinh nghiệm trong việc xây dựng ứng dụng web và di động.
+Xin chào! Tôi là Dianann Perla, một lập trình viên với niềm đam mê trong việc phát triển phần mềm và giải quyết vấn đề.
 
 # Kỹ năng
-- Lập trình: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Cơ sở dữ liệu: MySQL, MongoDB
-- Công cụ: Git, Docker, AWS
+- JavaScript
+- Python
+- React
+- Node.js
+- SQL
+- Git
 
 # Dự án
-- **Ứng dụng quản lý công việc**: Xây dựng ứng dụng web giúp người dùng theo dõi và quản lý công việc hàng ngày.
-- **Nền tảng học trực tuyến**: Phát triển một hệ thống học trực tuyến với tính năng tương tác cao.
+- **Dự án 1**: Ứng dụng quản lý công việc - Một ứng dụng giúp người dùng theo dõi và quản lý công việc hàng ngày.
+- **Dự án 2**: Trang web thương mại điện tử - Nền tảng mua sắm trực tuyến với tính năng tìm kiếm và thanh toán.
 
 # Liên hệ
-Bạn có thể liên hệ với tôi qua:
 - Email: dianannperla@example.com
-- LinkedIn: [linkedin.com/in/dianannperla](https://linkedin.com/in/dianannperla)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dianannperla)
